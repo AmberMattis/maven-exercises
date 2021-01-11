@@ -14,5 +14,8 @@ public class StringManipulation {
             System.out.println("Response is not a number.");
         }
 
+        System.out.println("Your response with cases swapped: " + StringUtils.swapCase(response));
+        System.out.println("Your response reversed: " + StringUtils.reverse(response));
+
     }
 }
