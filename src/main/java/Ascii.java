@@ -18,11 +18,11 @@ public class Ascii {
             System.out.print(PURPLE + "*");
         }
         System.out.println();
-        System.out.println(BLUE + "*****    ********    ****       **     **        **       ******        ");
-        System.out.println("**          **       **  **     **     ** **     **      **             ");
-        System.out.println("*****       **       ****       **     **   **   **     **    *****      ");
-        System.out.println("   **       **       **  **     **     **     ** **      **     **       ");
-        System.out.println("*****       **       **   **    **     **        **       ******        ");
+        System.out.println(BLUE +  " *****    ********    ****       **     **        **       ******        ");
+        System.out.println(        " **          **       **  **     **     ** **     **      **             ");
+        System.out.println(        " *****       **       ****       **     **   **   **     **    *****      ");
+        System.out.println(        "   **        **       **  **     **     **     ** **      **     **       ");
+        System.out.println(        " *****       **       **   **    **     **        **       ******        ");
         System.out.println(PURPLE + "************************* MANIPULATION ***************************");
         System.out.println();
     }
